@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+i9bet coach - nhà cái giải trí trực tuyến đáng tin cậy
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`i9bet <https://i9bet.coach/>`_ không chỉ là một nhà cái giải trí trực tuyến, mà còn là một đối tác đáng tin cậy và đáng giá cho những người yêu thích cá cược. Với đa dạng sản phẩm, giao diện thân thiện, an toàn bảo mật, và dịch vụ chăm sóc khách hàng chuyên nghiệp, i9bet đem lại cho người chơi trải nghiệm tuyệt vời. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thương hiệu uy tín i9bet cung cấp hàng ngàn trò chơi từ các nhà cung cấp hàng đầu, bao gồm cá cược thể thao, sòng bạc trực tuyến, eSports và xổ số, kèm theo các chương trình khuyến mãi hấp dẫn. Tham gia i9bet để tận hưởng những giây phút giải trí không giới hạn và cơ hội trúng thưởng lớn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 58B Nguyễn Trường Tộ, Tân Thành, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0821122255. 
 
-.. toctree::
+Email: info@i9bet.coach. 
 
-   usage
-   api
+Website: https://i9bet.coach/
+
+#i9bet #trangchui9bet #linki9bet #dangkyi9bet #nhacaii9bet
